@@ -10,6 +10,9 @@
             "includePath": [
                 "/home/hayden/projects/Phaser_D/Phazer_c/include",
                 "/home/hayden/projects/Phaser_D/Phazer_c/src",
+                "/home/hayden/projects/Phaser_D/Phazer_c/.pio/libdeps/esp32dev/U8g2/src",
+                "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
+                "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src",
                 "/home/hayden/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                 "/home/hayden/.platformio/packages/framework-arduinoespressif32-esp32-libs/dio_qspi/include",
                 "/home/hayden/.platformio/packages/framework-arduinoespressif32-esp32-libs/include/newlib/platform_include",
@@ -357,7 +360,6 @@
                 "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/RainMaker/src",
                 "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/SD/src",
                 "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/SD_MMC/src",
-                "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src",
                 "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src",
                 "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/SimpleBLE/src",
                 "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src",
@@ -366,7 +368,6 @@
                 "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
                 "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
-                "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                 "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/Zigbee/src",
                 ""
             ],
@@ -375,6 +376,9 @@
                 "path": [
                     "/home/hayden/projects/Phaser_D/Phazer_c/include",
                     "/home/hayden/projects/Phaser_D/Phazer_c/src",
+                    "/home/hayden/projects/Phaser_D/Phazer_c/.pio/libdeps/esp32dev/U8g2/src",
+                    "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
+                    "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src",
                     "/home/hayden/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                     "/home/hayden/.platformio/packages/framework-arduinoespressif32-esp32-libs/dio_qspi/include",
                     "/home/hayden/.platformio/packages/framework-arduinoespressif32-esp32-libs/include/newlib/platform_include",
@@ -722,7 +726,6 @@
                     "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/RainMaker/src",
                     "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/SD/src",
                     "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/SD_MMC/src",
-                    "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src",
                     "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src",
                     "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/SimpleBLE/src",
                     "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src",
@@ -731,7 +734,6 @@
                     "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
                     "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
-                    "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                     "/home/hayden/.platformio/packages/framework-arduinoespressif32/libraries/Zigbee/src",
                     ""
                 ]
